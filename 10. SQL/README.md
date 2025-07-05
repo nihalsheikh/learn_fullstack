@@ -85,6 +85,11 @@ EXIT
     - [x] DATE
     - [x] YEAR
     - [x] UNSIGNED
+- [x] Constraints
+    - [x] NOT NULL
+    - [x] UNIQUE
+    - [x] DEFAULT
+    - [x] CHECK
 
 
 </details>
